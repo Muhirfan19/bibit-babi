@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+bandar-reversal-bot
+/bin/
+*.log
+nohup.out
+.DS_Store
+.vscode/
+.idea/
